@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Fire Ant Tracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">Fire Ant Tracker</string>
+    <string name="takeAPicture">Take a Picture</string>
+    <string name="distributionButton1">Global Distribution Map of Fire Ant Mounds</string>
+    <string name="factsButton1">Facts About Fire Ants</string>
+    <string name="quiz1">Quiz</string>
+    <string name="questionButton1">Help</string>
+    <string name="title_activity_take_picture">Fire Ant Tracker</string>
+    <string name="title_activity_facts">Fire Ant Tracker</string>
+    <string name="title_activity_global_distribution">Fire Ant Tracker</string>
+    <string name="title_activity_quiz">Fire Ant Tracker</string>
+    <string name="title_activity_quiz_answers">Fire Ant Tracker</string>
+    <string name="fire_ant1">Red Imported Fire Ant (Solenopsis invicta)</string>
+    <string name="facts_ants">Red Imported Fire Ant\n\nThe Red Imported Fire Ant (also known in shorthand as the RIFA) is an invasive
+    species of ant that originates from central South America, mainly in Brazil. RIFA can be found all across the world at this
+    point, including in such varied places such as Antigua and Barbuda, Bahamas, the British and U.S. Virgin Islands, Cayman Islands,
+        Hong Kong, Malaysia, Singapore, Taiwan, the United States, New Zealand, China, Trinidad and Tobago, and the Turks and Caicos Islands.
+    Only in China and New Zealand have there been successful eradication programs of the RIFA so far.\n\nOrigination in the U.S.\n\n
+    The RIFA first appeared in the U.S. from (an estimated) 1933-1945 in ports of Mobile, Alabama. It has been theorized that ships that
+    contained cargo from Brazil introduced the RIFA to the U.S. during this time period. Since that time, the RIFA has spread across
+    much of the Southeastern U.S.. States that have been invaded and have permanent colony establishment include Alabama, Arkansas,
+        California, Florida, Georgia, Louisiana, Maryland, Mississippi, New Mexico, North Carolina, South Carolina, Oklahoma, Tennessee,
+        Texas, and Virginia. RIFA have not spread beyond the Southeastern U.S. because they cannot survive the cold temperatures
+    of winter that many parts of the U.S. experience.\n\n Identification\n\nRIFA are insects, which invertebrates that
+    have a chitinous exoskeleton, a three part body (head, thorax and abdomen), six legs, compound eyes and one pair of antennae.
+        RIFA colonies consist of a queen or queens (the presence of multiple queens in a colony is called polygyny), workers, brood and eggs.
+        RIFA workers can range from 2.4 to 6 mm in length and all workers have a stinger at the end of their body (this location on the body
+    is called the gaster). When one stings you, the compound they inject contains formic acid, which usually causes a
+        white pustule to form where the sting happened. RIFA typically have red bodies with a black gaster and have two ten-segmented antennae. All
+        workers are sterile females.\n\nColony Lifecycle\n\nRIFA colonies tend to spread through mating flights in the summer months, which can involve thousands of queens flying up high
+    into the air to mate. After mating occurs, RIFA queens find a new, suitable spot to set up a new colony. Occasionally, more than
+    one queen will set up a colony together. After finding a suitable site, the queen will break off her wings and burrow into soil in order
+    to start a mound. Within 24 hours of the original mating, fire ant queens will start to lay eggs. 8 to 10 eggs are usually
+    laid in these first 24 hours. The queen uses her (useless) wing muscles in order to sustain her first batch of eggs and brood.
+    When the first brood that mature are known as minims. These minims burrow out of the chamber, forage for food and help feed the queen
+    and the new eggs and brood the queen is constantly laying and tending to. Construction of the mound beings here also. After just one month,
+    larger workers start to appear and a mound is now clearly visible. After just six months, several thousand workers populate the mound.\n\n
+    Biology\n\nWorkers eat dead animals, including insects, earthworms and vertebrates. RIFA are notoriously known to not be picky
+    about what they eat as they will eat anything that contain sugars, proteins and fats.  </string>
+    <string name="titleQuiz">Test your Fire Ant Knowledge</string>
+    <string name="question1"><b>Question 1</b>: What is the scientific name for the red fire ant species that has
+    invaded most of the Southeastern United States?\n</string>
+    <string name="question2"><b>Question 2</b>: An acronym that is associated with the red fire ant is RIFA. What
+    does the acronym RIFA mean?\n</string>
+    <string name="question3"><b>Question 3</b>: What country is the red fire ant native to (ie. what country
+    was it accidentally imported from in the 1930s to the United States)?\n</string>
+    <string name="question4"><b>Question 4</b>: What entity, element or living being has helped the red fire ant spread
+    over the widest global area in the last 80 years?\n</string>
+    <string name="question5"><b>Question 5</b>: Multiple fire ant queens can start and cohabitat in a single colony.
+    True or false? If true, indicate what this behavior is called. If false, indicate what this behavior
+    is called.\n</string>
+    <string name="question6"><b>Question 6</b>: Where was the red fire ant (accidentally) first introduced to the United States? Hint:
+    It is a city that has a port.\n</string>
+    <string name="question7"><b>Question 7</b>: What method has been proven most effective and safe (for humans and the
+        environment) in eliminating fire ant colonies?\n</string>
+    <string name="question8"><b>Question 8</b>: What is the name of the chemical compound that the red fire ant
+    releases if it stings an animal or a human? The compound can cause a white pustule on the skin to form (it
+    is usually very itchy) or in more severe cases, a severe allergic reaction (chest pains, nausea, even a coma).\n</string>
+    <string name="question9"><b>Question 9</b>: What four countries have the red fire ant most notably invaded successfully and have
+        established a strong foothold in?\n</string>
+    <string name="question10"><b>Question 10</b>: What organism is one of the only natural predators of the red fire ant?</string>
+
+    <string name="question1Radio1">A. Brachypelma smithi</string>
+    <string name="question1Radio2">B. Solenopsis invicta</string>
+    <string name="question1Radio3">C. Apodemus sylvaticus</string>
+    <string name="question1Radio4">D. Myrmecophaga tridactyla</string>
+
+    <string name="question2Radio1">A. Real Iffy Funky Aardvark</string>
+    <string name="question2Radio2">B. Red Indigenous Fire Ant  </string>
+    <string name="question2Radio3">C. Red Imported Fire Ant</string>
+    <string name="question2Radio4">D. Real Imported Fire Ant</string>
+
+    <string name="question3Radio1">A. Brazil</string>
+    <string name="question3Radio2">B. Dominican Republic</string>
+    <string name="question3Radio3">C. Chile</string>
+    <string name="question3Radio4">D. Columbia</string>
+
+    <string name="question4Radio1">A. Wind</string>
+    <string name="question4Radio2">B. Birds</string>
+    <string name="question4Radio3">C. Flowing Water</string>
+    <string name="question4Radio4">D. Humans</string>
+
+    <string name="question5Radio1">A. True; Polymorphy</string>
+    <string name="question5Radio2">B. False; Monogyny</string>
+    <string name="question5Radio3">C. True; Polygyny</string>
+    <string name="question5Radio4">D. False; Monoamorphous</string>
+
+    <string name="question6Radio1">A. Omaha, Nebraska</string>
+    <string name="question6Radio2">B. Mobile, Alabama</string>
+    <string name="question6Radio3">C. Panama City, Florida</string>
+    <string name="question6Radio4">D. Galveston, Texas</string>
+
+    <string name="question7Radio1">A. Pouring vinegar over the mound</string>
+    <string name="question7Radio2">B. Placing cyanide dust on the mound</string>
+    <string name="question7Radio3">C. There is no effective way to control fire ant mounds</string>
+    <string name="question7Radio4">D. Pouring hot boiling water onto the mound</string>
+
+    <string name="question8Radio1">A. Hydrochloric acid</string>
+    <string name="question8Radio2">B. Formic acid</string>
+    <string name="question8Radio3">C. Sulfuric acid</string>
+    <string name="question8Radio4">D. Methyl formate</string>
+
+    <string name="question9Radio1">A. Bolivia, England, Italy, Cuba</string>
+    <string name="question9Radio2">B. United States, Australia, China, Taiwan</string>
+    <string name="question9Radio3">C. Japan, Canada, Ecuador, Guatemala </string>
+    <string name="question9Radio4">D. United States, South Korea, Mexico, Dominican Republic</string>
+
+    <string name="question10Radio1">A. Nine-banded Armadillo</string>
+    <string name="question10Radio2">B. Tiger Salamander</string>
+    <string name="question10Radio3">C. Phorid Fly</string>
+    <string name="question10Radio4">D. Stink Badger</string>
+
+    <string name="submitButtonQuiz">Submit Quiz</string>
+
+    <string name="instructions"><i>Instructions: Select the best answer for each question. Click the
+    submit button when you are finished to have your quiz graded.</i></string>
+
+    <string name="backToMainScreen">Back to Main Screen</string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="fire_ant_facts_help">Hint: You can zoom in and out by using the standard touchscreen
+    pinch in and out gestures or by using the zoom in and out controls that appear when you start to scroll\n</string>
+    <string name="title_activity_global_distribution_map">Map</string>
+
+
+</resources>
